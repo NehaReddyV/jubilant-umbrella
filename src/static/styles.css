@@ -79,10 +79,15 @@ section h3 {
   padding-left: 20px;
   margin-top: 10px;
   color: #555;
+  background-color: #f9f9f9; /* Added background for visibility */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px; /* Added padding */
 }
 
 .activity-card li {
   margin-bottom: 5px;
+  color: #0066cc; /* Changed color for better visibility */
+  font-weight: bold; /* Made participant names bold */
 }
 
 .form-group {
